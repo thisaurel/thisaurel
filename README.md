@@ -11,6 +11,7 @@ Welcome to my profile, most of my work is private. But I have some exciting proj
 - Typescript
 - Laravel
 - PHP
+- IntelliJ IDEA
 
 ## 💌 Get in touch
 - Personal Website: [aurelienriche.com](http://aurelienriche.com/)
