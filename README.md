@@ -22,3 +22,8 @@ I'm a frontend developer especially with JavaScript frameworks like Angular or R
 ## 💌 Get in touch
 - Personal Website: [aurelienriche.com](http://aurelienriche.com/)
 - Mail: [contact@aurelienriche.com](mailto:contact@aurelienriche.com)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/thisaurel/count.svg" />
+</p>
