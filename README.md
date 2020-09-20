@@ -1,5 +1,5 @@
 
-# Hi there 👋
+# 👋 Hi there
 
 Passionate about the world of development for the past 5 years, I have been able to work on projects of various sizes for the creation of dynamic and/or static websites, the management of payments with Stripe/Paypal or the automation of theme file generation according to colours and themes.
 
