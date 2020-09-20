@@ -1,7 +1,9 @@
 
 # Hi there 👋
 
-Welcome to my profile, most of my work is private. But I have some exciting projects here.
+Passionate about the world of development for the past 5 years, I have been able to work on projects of various sizes for the creation of dynamic and/or static websites, the management of payments with Stripe/Paypal or the automation of theme file generation according to colours and themes.
+
+Since 2018, I specialize in front-end development around modern Javascript frameworks such as Angular or React, but also NodeJS.
 
 ## 👔 My job
 
