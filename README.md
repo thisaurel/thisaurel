@@ -5,7 +5,7 @@ Passionate about the world of development for the past 5 years, I have been able
 
 Since 2018, I specialize in front-end development around modern Javascript frameworks such as Angular or React, but also NodeJS.
 
-## 👔 My job
+## 💻 My job
 
 I'm a frontend developer especially with JavaScript frameworks like Angular or React with which I take pleasure in coding.
 
