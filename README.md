@@ -7,7 +7,8 @@ Since 2018, I specialize in front-end development around modern Javascript frame
 
 ## 💻 My job
 
-I'm a frontend developer especially with JavaScript frameworks like Angular or React with which I take pleasure in coding.
+I am a frontend developer mostly with JavaScript frameworks like Angular or React with which I enjoy coding.
+I'm currently doing a Master's degree at Betclic as a frontend developer on Angular.
 
 ## 📚 Languages & Tools
 - Angular
